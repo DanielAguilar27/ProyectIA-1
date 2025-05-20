@@ -1,28 +1,59 @@
-#ProyectIA-1
-Predicción Inteligente del IMC: Hábitos que Revelan tu Salud
-Autores:
-Daniel Leonardo Aguilar
-Juan Jose Ardila
+# 📁 ProyectIA-1
 
-🎯 Objetivo del Proyecto
-Desarrollar e implementar un modelo de machine learning capaz de predecir el Índice de Masa Corporal (IMC) de una persona a partir de sus hábitos alimenticios y de actividad física, logrando un Error Absoluto Medio (MAE) menor a 3.
+## 🧠 Predicción Inteligente del IMC: Hábitos que Revelan tu Salud
 
-📊 Dataset Utilizado
-Nombre del dataset: Obesity Prediction
+**Autores:**  
+- Daniel Leonardo Aguilar  
+- Juan Jose Ardila  
 
-Fuente: https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
+---
 
-Descripción: Contiene variables relacionadas con hábitos alimenticios, actividad física, género, edad, consumo de agua, entre otros factores, asociados al IMC de individuos.
+### 🎯 Objetivo del Proyecto
 
-🤖 Modelos Implementados
-Árbol de Decisión (Decision Tree):
-Modelo interpretable que permite entender fácilmente qué características son más relevantes para la predicción del IMC.
+Implementar un modelo de *machine learning* que genere la métrica del Índice de Masa Corporal (IMC) con un **Error Absoluto Medio (MAE) menor a 3**.  
+El modelo se alimenta de hábitos de vida, nutrición y ejercicio para predecir el IMC de manera precisa e inteligente.
 
-Red Neuronal Densa (Dense Neural Network):
-Arquitectura de red profunda capaz de capturar relaciones no lineales complejas entre los hábitos de salud y el IMC.
+---
 
-Bosque Aleatorio (Random Forest): 
-Ensamble de árboles de decisión que mejora la precisión y reduce el sobreajuste, ideal para manejar variables categóricas y numéricas.
+### 📊 Dataset Utilizado
 
-Máquina de Vectores de Soporte (Support Vector Machine):
-Modelo robusto frente a ruido, útil para detectar patrones complejos en el espacio de entrada de alta dimensión.
+- **Nombre:** Obesity Prediction Dataset  
+- **Fuente:** [Kaggle - Obesity Prediction](https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction)  
+- **Descripción:**  
+  Contiene registros de personas con características como:
+  - Edad  
+  - Género  
+  - Nivel de actividad física  
+  - Frecuencia del consumo de comida rápida  
+  - Consumo de agua  
+  - Tiempos frente a pantalla  
+  - Historial de seguimiento médico
+
+---
+
+### 🤖 Modelos Implementados
+
+1. **Decision Tree (Árbol de Decisión):**  
+   Modelo explicativo que identifica patrones y decisiones clave que afectan el IMC.
+
+2. **Dense Neural Network (Red Neuronal Densa):**  
+   Arquitectura profunda diseñada para capturar relaciones no lineales complejas entre variables de hábitos y el IMC.
+
+3. **Random Forest (Bosque Aleatorio):**  
+   Modelo de ensamble basado en múltiples árboles de decisión que mejora la precisión y generalización del modelo.
+
+4. **Support Vector Machine (Máquina de Vectores de Soporte):**  
+   Clasificador robusto ideal para manejar espacios multidimensionales y patrones complejos en los datos.
+
+---
+
+### ⚙️ Tecnologías Utilizadas
+
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- TensorFlow / Keras (para la red neuronal)  
+- Matplotlib / Seaborn (visualización)
+
+---
+
