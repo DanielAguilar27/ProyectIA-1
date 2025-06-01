@@ -10,7 +10,7 @@ Daniel Leonardo Aguilar, Juan Jose Ardila
 
 ### 🎯 Objetivo del Proyecto
 
-Implementar un modelo de *machine learning* que  clasifique la obesidad en 7 tipos ( peso insuficiente, normal,sobrepeso 1,2 y obesidad tipo 1,2,3 en base a los hábitos de vida, nutrición y ejercicio  y para modelos de regresion,  predecir el IMC.
+Implementar un modelo de *machine learning* que  clasifique la obesidad en 7 tipos ( peso insuficiente, normal,sobrepeso 1,2 y obesidad tipo 1,2,3) en base a los hábitos de vida, nutrición y ejercicio  y para modelos de regresion,  predecir el IMC.
 ---
 
 ### 📊 Dataset Utilizado
