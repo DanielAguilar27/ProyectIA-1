@@ -54,4 +54,5 @@ Implementar un modelo de *machine learning* que  clasifique la obesidad en 7 tip
 - Matplotlib / Seaborn (visualización)
 
 ---
+Video: https://www.youtube.com/watch?v=QnwzCSODLoM
 
