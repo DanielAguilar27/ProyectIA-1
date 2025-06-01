@@ -2,7 +2,7 @@
 ## 🧠 Predicción Inteligente del IMC: Hábitos que Revelan tu Salud
 
 **Autores:**  
-Daniel Leonardo Aguilar, Juan Jose Ardila  
+Daniel Leonardo Aguilar, Juan José Ardila  
 ![image](https://github.com/user-attachments/assets/a9f33faf-f8bc-4b68-8f75-4ecdd4f023c8)
 
 
