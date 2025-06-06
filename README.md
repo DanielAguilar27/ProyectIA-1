@@ -3,7 +3,8 @@
 
 **Autores:**  
 Daniel Leonardo Aguilar, Juan José Ardila  
-![image](https://github.com/user-attachments/assets/a9f33faf-f8bc-4b68-8f75-4ecdd4f023c8)
+
+![imagen_2025-06-06_101949429](https://github.com/user-attachments/assets/c3396e53-2614-4d32-a353-8a059f79d2a5)
 
 
 ---
